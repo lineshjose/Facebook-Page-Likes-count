@@ -5,9 +5,7 @@ Version : 1
 
 Author: Linesh Jose
 
-Url: http://lineshjose.com
-
-Email: lineshjose@gmail.com
+Url: https://linesh.com
 
 Donate:  http://bit.ly/donate-linesh
 
