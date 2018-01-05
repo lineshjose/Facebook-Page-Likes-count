@@ -3,8 +3,7 @@
   Name: Facebook Page Likes count
 	Version : 1
 	Author: Linesh Jose
-	Url: http://lineshjose.com
-	Email: lineshjose@gmail.com
+	Url: https://linesh.com
 	Donate:  http://bit.ly/donate-linesh
 	github: https://github.com/lineshjose
 	Copyright: Copyright (c) 2012 LineshJose.com
